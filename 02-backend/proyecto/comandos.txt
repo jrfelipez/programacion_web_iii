@@ -1,0 +1,4 @@
+# En una terminal
+cd proyecto
+npm install
+npm run start
